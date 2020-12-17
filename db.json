@@ -1,12 +1,13 @@
-[
-  {
-    "id": 1,
-    "body": "some comment",
-    "postId": 1
-  },
-  {
-    "id": 2,
-    "body": "some comment",
-    "postId": 1
-  }
-]
+{
+   "firstName": "Іван",
+   "lastName": "Коваленко",
+   "address": {
+       "streetAddress": "вул. Грушевського 14, кв.101",
+       "city": "Київ",
+       "postalCode": 21000
+   },
+   "phoneNumbers": [
+       "044 123-1234",
+       "050 123-4567"
+   ]
+}
